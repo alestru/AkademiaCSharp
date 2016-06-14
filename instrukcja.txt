@@ -1,0 +1,7 @@
+Projekt to prosta aplikacja, w której zawarte s¹ dwa testy tematyczne. 
+Rozwi¹zanie testu mo¿na rozpocz¹æ od razu po uruchomieniu aplikacji.
+Aby zmieniæ rodzaj testu nale¿y wbraæ go z listy u góry (ComboBox). 
+Po wybraniu od razu nastêpuje zmiana treœci testu. Test zawiera pytania jednokrotnego oraz wielokrotnego wyboru.
+Aby sprawdziæ wyniki nale¿y klikn¹æ przycisk "SprawdŸ". Uzyskany wynik pojawi siê poni¿ej.
+Wyniki zostaj¹ zapisane do pliku 'wyniki.csv' i st¹d s¹ te¿ pobierane przy ka¿dym uruchomieniu aplikacji.
+W przypadku gdy brakuje tego pliku, to przy uruchomieniu aplikacji zostaje przechwycony wyj¹tek i zostaje obs³u¿ony poprzez wyœwietlenie odpowiedniej informacji.

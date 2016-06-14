@@ -1,0 +1,14 @@
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\bin\Release\AkademiaCSharpAleksandraStruck.exe.config
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\bin\Release\AkademiaCSharpAleksandraStruck.exe
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\bin\Release\AkademiaCSharpAleksandraStruck.pdb
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\OknoGlowne.g.cs
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\App.g.cs
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck_MarkupCompile.cache
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck_MarkupCompile.lref
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\OknoGlowne.baml
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck.g.resources
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck.Properties.Resources.resources
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck.csproj.GenerateResource.Cache
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck.exe
+C:\Users\astruck\Desktop\priv\C# kurs\Akademia\AkademiaCSharp\AkademiaCSharpAleksandraStruck\AkademiaCSharpAleksandraStruck\obj\Release\AkademiaCSharpAleksandraStruck.pdb
